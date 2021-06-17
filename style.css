@@ -28,6 +28,7 @@ video{
     border: none;
     background-color: black;
     border: 5px solid white;
+    cursor: pointer;
 }
 
 #record{
@@ -81,6 +82,7 @@ video{
     position: fixed;
     left: 2rem;
     top: calc((100vh - 25rem) / 2);
+    cursor: pointer;
 }
 
 .filters{
@@ -99,6 +101,7 @@ video{
     position: fixed;
     right: 2rem;
     top: 5rem;
+    cursor: pointer;
 }
 
 .zoom-in-out-container div{
@@ -127,6 +130,7 @@ video{
     position: fixed;
     right: 2rem;
     bottom: 4rem;
+    cursor: pointer;
 }
 
 .gallery,.material-icons{
